@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "IOTAP-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/IOTAP-eagle-import.kicad_sym")(options "")(descr ""))
+)
